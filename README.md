@@ -23,8 +23,11 @@ Other Sources: https://codebasics.io/challenge/codebasics-resume-project-challen
   🔹 Identify trends that influence EV sales by each category and state 
 
 
-Screenshots: AtliqueHome.PNG
+Screenshots: 
+
 >             State View.PNG
+> AtliqueHome.PNG
+
 
 STEPS TO VIEW THE VISUALIZATION:
 📄 Download the Atlique Viz.html code. 
