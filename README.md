@@ -24,9 +24,10 @@ Other Sources: https://codebasics.io/challenge/codebasics-resume-project-challen
 
 
 Screenshots: 
+Home Page:  >  AtliqueHome.PNG
+State View: >             State View.PNG
 
->             State View.PNG
-> AtliqueHome.PNG
+ 
 
 
 STEPS TO VIEW THE VISUALIZATION:
