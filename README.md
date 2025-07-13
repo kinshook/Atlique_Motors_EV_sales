@@ -1,8 +1,8 @@
 # Atlique_Motors_EV_sales
 EV sales Analyses Report 
-Select Branch to  
+FIRST, Select Branch to  data_cleaning_insights 
 
-📊Atlique Motots EV Sales Analyses Dashboard
+📊Atlique Motors EV Sales Analyses Dashboard
 An interactive visual tool built to analyse the performance of EV sales at Atlique Motors
 
 👩‍💻Technology Stack: The Dashboard visualization used the following technology for its completion-
@@ -23,10 +23,10 @@ Other Sources: https://codebasics.io/challenge/codebasics-resume-project-challen
   🔹 Identify trends that influence EV sales by each category and state 
 
 
-Screenshots: Screenshot 2025-06-13 121814.png
+Screenshots: 
 
 STEPS TO VIEW THE VISUALIZATION:
-📄 Downlolad the Tableau_Daikibo.html code 
+📄 Download the Atlique Viz.html code. 
 🖱️Right click on the saved file. 
 🖼️From the dialog box, select Open with -> select your browser to launch the file.
 
